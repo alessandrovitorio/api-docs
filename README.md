@@ -1,5 +1,5 @@
 # 🎬API FILMES🎥
-## 1) O que é uma API? (explicação simples para os alunos)
+## 1) O que é uma API?
 
 * **API (Application Programming Interface)** é um contrato que permite que sistemas diferentes conversem entre si.
 * Em termos web, uma **API REST** expõe endpoints (URLs) que recebem requisições HTTP (GET, POST, PUT, DELETE) e retornam respostas (JSON, XML, etc.).

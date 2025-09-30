@@ -20,7 +20,7 @@ Esta aula tem como objetivo apresentar o que é uma **API**, para que serve, e c
 
 Antes de documentar a API, é importante entender o **modelo de dados** (DER). O DER mostra as tabelas (models) e seus relacionamentos — por exemplo, `Filme` e `Genero`.
 
-![DER](./der2.png)` para mostrá-la.
+![DER](./der2.png) 
 
 ---
 

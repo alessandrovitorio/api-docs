@@ -20,9 +20,7 @@ Esta aula tem como objetivo apresentar o que é uma **API**, para que serve, e c
 
 Antes de documentar a API, é importante entender o **modelo de dados** (DER). O DER mostra as tabelas (models) e seus relacionamentos — por exemplo, `Filme` e `Genero`.
 
-> **Observação:** se você tem a imagem do DER (ERD.svg), coloque-a na pasta do projeto com o nome `ERD.svg` e, no README do repositório, use `![DER](ERD.svg)` para mostrá-la.
-
-(Se preferir, insira o arquivo `ERD.svg` na mesma pasta do README para que a imagem apareça ao abrir o repositório.)
+![DER](./der2.png)` para mostrá-la.
 
 ---
 

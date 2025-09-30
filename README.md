@@ -1,11 +1,4 @@
-# README - Aula: Documentação da API Filmes
-
-**Objetivo da aula**
-
-Esta aula tem como objetivo apresentar o que é uma **API**, para que serve, e como documentar uma API REST usando **OpenAPI / Swagger**. Trabalharemos com o exemplo prático **API Filmes**, integrado ao DER do banco de dados (veja instruções sobre a imagem do DER abaixo). Ao final, os alunos deverão saber criar um arquivo `filmes.json`/`filmes.yaml`, abrir o Swagger Editor localmente e testar os endpoints.
-
----
-
+# 🎬API FILMES🎥
 ## 1) O que é uma API? (explicação simples para os alunos)
 
 * **API (Application Programming Interface)** é um contrato que permite que sistemas diferentes conversem entre si.
